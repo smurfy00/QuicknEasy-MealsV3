@@ -1,0 +1,20 @@
+@charset "UTF-8";
+body ul li {
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li a {
+	display: block;
+	width: 32%;
+	float: left;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #000000;
+	border: 1px solid #FFFFFF;
+}
+body h1 {
+	text-align: center;
+}
